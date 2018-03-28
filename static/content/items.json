@@ -22,16 +22,24 @@
 		]
 	},
 	{
-		"label":"vue1",
-		"value": "vue1",
+		"label":"vue文档总结",
+		"value": "vueIndea",
 		"children":[
 			{
-				"label":"个人体会",
-				"value":"person-idea1"
+				"label":"计算属性，watcher，filter相关",
+				"value":"property_about"
 			},
 			{
-				"label": "iviewUI组件相关",
-				"value" : "iview-ui1"
+				"label": "class，style的使用",
+				"value" : "class_style"
+			},
+			{
+				"label": "相关指令介绍及案例",
+				"value": "bind"
+			},
+			{
+				"label": "v-model相关问题",
+				"value": "model"
 			}
 		]
 	},
